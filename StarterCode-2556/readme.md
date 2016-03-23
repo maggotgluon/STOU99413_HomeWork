@@ -617,9 +617,9 @@ class CustomABOUTDialog extends JDialog implements ActionListener {
 
 ซึ่งผลลัพธ์ที่ได้จะเป็นดังภาพต่อไปนี้
 
-![Image of Yaktocat](https://maggotgluon.github.com/STOU99413_HomeWork/StarterCode/99413Home-starter.png)
+![Image of starter](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2556-Home-starter.png)
 
 ให้นักศึกษาทำการแก้ไขโปรแกรม  เพื่อให้การทำงานของโปรแกรมได้ผลลัพธ์ดังภาพต่อไปนี้
-![Image of Yaktocat](https://maggotgluon.github.com/STOU99413_HomeWork/StarterCode/99413Home-solution.png)
+![Image of solution](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2556-Home-solution.png)
 โดยให้ระบุว่า ได้ทำการแก้ไขส่วนของโปรแกรมอย่างไรบ้าง  และแสดงส่วนของโปรแกรมที่ทำการปรับแก้ไขทั้งหมด
 
