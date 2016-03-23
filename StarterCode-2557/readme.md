@@ -16,15 +16,15 @@
 
 เอกสารต่อไปนี้เป็นตัวอย่างใบสมัครและข้อมูลพื้นฐานประกอบการกรอกใบสมัคร
 
-[Image of doc01](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-doc01.png
+![Image of doc01](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-doc01.png)
 
 เอกสารที่ 1:ใบสมัครงานของบริษัท STOU-TEC จำกัด 
 
-[Image of doc02](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-doc02.png
+![Image of doc02](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-doc02.png)
 
 เอกสารที่ 2: คุณสมบัติเฉพาะตำแหน่งของผู้สมัคร
 
-[Image of doc03](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-doc03.png
+![Image of doc03](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-doc03.png)
 
 เอกสารที่ 3: รายละเอียดตำแหน่งที่เปิดรับ
 
@@ -34,17 +34,17 @@
 การเขียนโปรแกรมเพื่อออกแบบ แบบฟอร์มใบสมัคร
 ให้นักศึกษาใช้ Eclipse เขียนโปรแกรมภาษาจาวา (Java) เพื่อสร้างแบบฟอร์มใบสมัครพนักงาน แสดงบน หน้าจอให้มีรูปแบบดังนี้
 
-[Image of starter1](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-Home-57-1.png
+![Image of starter1](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-Home-57-1.png)
 
 ####กิจกรรมที่ 2
 กรอกข้อมูลและแสดงผลข้อมูล
 ให้นักศึกษาใช้ Eclipse เขียนโปรแกรมภาษาจาวา (Java) เพื่อแสดงผลข้อมูลที่กรอกลงในแบบฟอร์ม ใบสมัครที่ได้จากกิจกรรมที่ 1 ดังนี้
 
-[Image of starter2](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-Home-57-2.png
+![Image of starter2](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-Home-57-2.png)
 
 เมื่อกรอกข้อมูล และกดปุ่มตกลง จะแสดงขอความดังภาพต่อไปนี้
 
-[Image of starter3](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-Home-57-3.png
+![Image of starter3](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2557-Home-57-3.png)
 
 >ให้นักศึกษาบันทึกข้อมูลลงในแผนซีดี แล้วนำไปส่งในวันที่เขารับการฝึกปฏิบัติเสริมทักษะ ดังนี้ 
 
