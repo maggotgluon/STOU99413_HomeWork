@@ -4,13 +4,16 @@
 
 ผลลัพธ์ที่ใช้ตั้งต้น
 
-![Image of starter](https://maggotgluon.github.com/STOU99413_HomeWork/StarterCode/99413Home-starter.png)
+![Image of starter](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2556-Home-starter.png)
 
 ผลลัพธ์ที่โจย์ต้องการ
-![Image of solution](https://maggotgluon.github.com/STOU99413_HomeWork/StarterCode/99413Home-solution.png)
+
+![Image of solution](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2556-Home-solution.png)
 
 จุดที่แตกต่าง
-![Image of differance](https://maggotgluon.github.com/STOU99413_HomeWork/StarterCode/99413Home-differance.png)
+
+![Image of differance](https://maggotgluon.github.io/STOU99413_HomeWork/img/99413-2556-Home-differance.png)
+
 
 *จุดที่ 1
 เปลี่ยน Title bar จาก "STOU Calculator" เป็น "STOUhome Calculator"
